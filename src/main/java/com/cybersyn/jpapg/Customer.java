@@ -30,9 +30,11 @@ public class Customer {
         return id;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
+// --Commented out by Inspection START (1/2/20, 12:14 a. m.):
+//    public String getFirstName() {
+//        return firstName;
+//    }
+// --Commented out by Inspection STOP (1/2/20, 12:14 a. m.)
 
     public String getLastName() {
         return lastName;
